@@ -44,4 +44,4 @@ Write out the relationships using has_many, belongs_to and has_many_through. Cre
 - #guest
   - returns the guest object for the trip
 - .all
-  - returns an array of all trips
+  <!-- - returns an array of all trips -->
